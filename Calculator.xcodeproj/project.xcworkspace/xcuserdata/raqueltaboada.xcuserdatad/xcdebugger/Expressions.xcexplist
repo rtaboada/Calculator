@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Calculator.CalculatorBrain.(printOps in _CDA2C7058BF57092EA9C80E6A31CE4D6) (Calculator.CalculatorBrain)(Swift.Array&lt;Calculator.CalculatorBrain.(Op in _CDA2C7058BF57092EA9C80E6A31CE4D6)&gt;, precedence : Swift.Int) -&gt; (result : Swift.String, remainingOps : Swift.Array&lt;Calculator.CalculatorBrain.(Op in _CDA2C7058BF57092EA9C80E6A31CE4D6)&gt;):CalculatorBrain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "op.precedence">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
